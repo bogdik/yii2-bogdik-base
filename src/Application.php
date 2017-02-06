@@ -1,7 +1,7 @@
 <?php
 namespace yii\web;
 
-use navatech\setting\Setting;
+use bogdik\setting\Setting;
 use yii\base\Request;
 use yii\base\Response;
 
