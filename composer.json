@@ -1,5 +1,5 @@
 {
-	"name" : "navatech/yii2-navatech-base",
+	"name" : "bogdik/yii2-bogdik-base",
 	"description" : "Yii2 Base for navatech application",
 	"type" : "yii2-extension",
 	"keywords" : [
@@ -9,9 +9,9 @@
 		"base"
 	],
 	"license" : "MIT",
-	"homepage" : "https://navatech.vn",
+	"homepage" : "https://zukul.com",
 	"support" : {
-		"source" : "https://github.com/navatech/yii2-navatech-base"
+		"source" : "https://github.com/bogdik/yii2-bogdik-base"
 	},
 	"authors" : [
 		{
