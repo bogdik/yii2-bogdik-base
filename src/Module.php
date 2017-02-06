@@ -26,7 +26,7 @@ class Module extends \yii\base\Module {
 	 * @return bool
 	 */
 	public static function hasSetting() {
-		return (Yii::$app->hasModule('setting') && Yii::$app->getModule('setting') instanceof \bogdik\setting\Module && in_array('setting', array_keys(Yii::$app->components)) && Yii::$app->components['setting']['class'] == \navatech\setting\Setting::className());
+		return (Yii::$app->hasModule('setting') && Yii::$app->getModule('setting') instanceof \bogdik\setting\Module && in_array('setting', array_keys(Yii::$app->components)) && Yii::$app->components['setting']['class'] == \bogdik\setting\Setting::className());
 	}
 
 	/**

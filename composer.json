@@ -27,7 +27,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"navatech\\base\\" : "src/"
+			"bogdik\\base\\" : "src/"
 		}
 	}
 }
